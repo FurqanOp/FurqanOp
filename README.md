@@ -26,4 +26,4 @@ Data Science, Machine Learning, Deep Learning, Large Language Models (LLMs), Clo
 He/Him  
 
 ## ⚡ Fun fact  
-I enjoy uncovering hidden patterns in data and turning raw numbers into meaningful insights. Also, I love working with interactive visualizations in Power BI and Python! 🚀  
+I can spend hours optimizing a machine learning model but still struggle to decide what to watch on Netflix! 😆    
