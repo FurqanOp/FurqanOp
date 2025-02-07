@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Furqan Ahmed (@FurqanOp)  
 
 ## 👀 I’m interested in  
-Data Science, Machine Learning, Deep Learning, Large Language Models (LLMs), Cloud Computing, and Data Analytics, especially in the field of road safety and accident data analysis.  
+Data Science, Machine Learning, Deep Learning, Large Language Models (LLMs), Cloud Computing, and Data Analytics.  
 
 ## 🌱 I’m currently learning  
 - Full-stack Data Science at Naresh IT  
