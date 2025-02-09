@@ -18,10 +18,6 @@ Data Science, Machine Learning, Deep Learning, Large Language Models (LLMs), Clo
 - Deep Learning and LLM projects  
 - Cloud-based AI/ML solutions  
 
-## 📫 How to reach me  
-- Email: iamfurqanahmed10@gmail.com  
-- GitHub: github.com/FurqanOp  
-
 ## 😄 Pronouns  
 He/Him  
 
