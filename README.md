@@ -4,7 +4,7 @@
 Data Science, Machine Learning, Deep Learning, Large Language Models (LLMs), Cloud Computing, and Data Analytics.  
 
 ## 🌱 I’m currently learning  
-- Full-stack Data Science at Naresh IT  
+- Full-stack Data Science 
 - Deep Learning and Neural Networks  
 - Large Language Models (LLMs)  
 - Cloud Computing for AI and Data Science  
